@@ -1,6 +1,4 @@
 export class Cliente {
-    nome;
-    _cpf;
     static numeroDeClientes = 0;
 
     get cpf(){
